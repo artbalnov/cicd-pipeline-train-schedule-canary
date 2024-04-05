@@ -37,16 +37,16 @@
 			]
 		},
 		{
-			"name": "Orient Express",
+			"name": "Carpathians Express",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "Kyiv",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
 				},
 				{
-					"station": "Cypress",
+					"station": "Yasinya",
 					"status": "DELAYED",
 					"arrival": "1:00pm",
 					"departure": "1:10pm",
