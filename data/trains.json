@@ -49,8 +49,8 @@
 					"station": "Yasinya",
 					"status": "DELAYED",
 					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:07pm",
+					"departure": "1:11pm",
+					"delayedArrival": "1:07 pm",
 					"delayedDeparture": "1:17pm"
 				}
 			]
